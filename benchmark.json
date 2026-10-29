@@ -1,0 +1,424 @@
+{
+  "at": "2026-10-29T06:40:09.097Z",
+  "purpose": "Read-only prize-escrow verification for our on-chain work tracker",
+  "fixedBlock": "0x32c467e",
+  "paidCalls": 0,
+  "rows": [
+    {
+      "source": "lasso",
+      "method": "eth_chainId",
+      "trial": 1,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 1566,
+      "resultHash": "21ff847f6d761043bd1610622272985d73e7ffa514f77adb09a858dbab1ebe37",
+      "resultBytes": 8,
+      "chargeUsd": "0",
+      "profile": "public",
+      "requestId": "GOLs07g6TNjXwYwAAS9k",
+      "servedLocally": true
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_chainId",
+      "trial": 1,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 1143,
+      "resultHash": "21ff847f6d761043bd1610622272985d73e7ffa514f77adb09a858dbab1ebe37",
+      "resultBytes": 8,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_chainId",
+      "trial": 2,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 446,
+      "resultHash": "21ff847f6d761043bd1610622272985d73e7ffa514f77adb09a858dbab1ebe37",
+      "resultBytes": 8,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    },
+    {
+      "source": "lasso",
+      "method": "eth_chainId",
+      "trial": 2,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 208,
+      "resultHash": "21ff847f6d761043bd1610622272985d73e7ffa514f77adb09a858dbab1ebe37",
+      "resultBytes": 8,
+      "chargeUsd": "0",
+      "profile": "public",
+      "requestId": "GOLs1CWUhtfaFNIAAyqD",
+      "servedLocally": true
+    },
+    {
+      "source": "lasso",
+      "method": "eth_chainId",
+      "trial": 3,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 197,
+      "resultHash": "21ff847f6d761043bd1610622272985d73e7ffa514f77adb09a858dbab1ebe37",
+      "resultBytes": 8,
+      "chargeUsd": "0",
+      "profile": "public",
+      "requestId": "GOLs1DFCnRTvd8oAAyrD",
+      "servedLocally": true
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_chainId",
+      "trial": 3,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 417,
+      "resultHash": "21ff847f6d761043bd1610622272985d73e7ffa514f77adb09a858dbab1ebe37",
+      "resultBytes": 8,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    },
+    {
+      "source": "lasso",
+      "method": "eth_getBalance",
+      "trial": 1,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 360,
+      "resultHash": "900238c4b70206173dcafad0d497ed0bebd778006f3b81be8c97a5f117295fb3",
+      "resultBytes": 5,
+      "chargeUsd": "0",
+      "profile": "public",
+      "provider": "base_publicnode",
+      "requestId": "GOLs1FWn9qRn5d8AAysD",
+      "servedLocally": false
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_getBalance",
+      "trial": 1,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 418,
+      "resultHash": "900238c4b70206173dcafad0d497ed0bebd778006f3b81be8c97a5f117295fb3",
+      "resultBytes": 5,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_getBalance",
+      "trial": 2,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 420,
+      "resultHash": "900238c4b70206173dcafad0d497ed0bebd778006f3b81be8c97a5f117295fb3",
+      "resultBytes": 5,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    },
+    {
+      "source": "lasso",
+      "method": "eth_getBalance",
+      "trial": 2,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 761,
+      "resultHash": "900238c4b70206173dcafad0d497ed0bebd778006f3b81be8c97a5f117295fb3",
+      "resultBytes": 5,
+      "chargeUsd": "0",
+      "profile": "public",
+      "provider": "base_pocket",
+      "requestId": "GOLs1J27ei2UC_kABOLB",
+      "servedLocally": false
+    },
+    {
+      "source": "lasso",
+      "method": "eth_getBalance",
+      "trial": 3,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 489,
+      "resultHash": "900238c4b70206173dcafad0d497ed0bebd778006f3b81be8c97a5f117295fb3",
+      "resultBytes": 5,
+      "chargeUsd": "0",
+      "profile": "public",
+      "provider": "base_tenderly",
+      "requestId": "GOLs1MvaU5jvXhAABBkC",
+      "servedLocally": false
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_getBalance",
+      "trial": 3,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 462,
+      "resultHash": "900238c4b70206173dcafad0d497ed0bebd778006f3b81be8c97a5f117295fb3",
+      "resultBytes": 5,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    },
+    {
+      "source": "lasso",
+      "method": "eth_call",
+      "trial": 1,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 470,
+      "resultHash": "a86d232380f7825d5053701c2b5a8c2f8c27bf0df6f34fae6196cd42f8004c6c",
+      "resultBytes": 4676,
+      "chargeUsd": "0",
+      "profile": "public",
+      "provider": "base_pocket",
+      "requestId": "GOLs1QRz3sW_tI8ABBli",
+      "servedLocally": false
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_call",
+      "trial": 1,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 433,
+      "resultHash": "a86d232380f7825d5053701c2b5a8c2f8c27bf0df6f34fae6196cd42f8004c6c",
+      "resultBytes": 4676,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_call",
+      "trial": 2,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 431,
+      "resultHash": "a86d232380f7825d5053701c2b5a8c2f8c27bf0df6f34fae6196cd42f8004c6c",
+      "resultBytes": 4676,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    },
+    {
+      "source": "lasso",
+      "method": "eth_call",
+      "trial": 2,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 355,
+      "resultHash": "a86d232380f7825d5053701c2b5a8c2f8c27bf0df6f34fae6196cd42f8004c6c",
+      "resultBytes": 4676,
+      "chargeUsd": "0",
+      "profile": "public",
+      "provider": "base_pocket",
+      "requestId": "GOLs1VM7yIYVbNsABBnC",
+      "servedLocally": false
+    },
+    {
+      "source": "lasso",
+      "method": "eth_call",
+      "trial": 3,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 420,
+      "resultHash": "a86d232380f7825d5053701c2b5a8c2f8c27bf0df6f34fae6196cd42f8004c6c",
+      "resultBytes": 4676,
+      "chargeUsd": "0",
+      "profile": "public",
+      "provider": "base_official",
+      "requestId": "GOLs1WcAaRlfeB8AAS-k",
+      "servedLocally": false
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_call",
+      "trial": 3,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 424,
+      "resultHash": "a86d232380f7825d5053701c2b5a8c2f8c27bf0df6f34fae6196cd42f8004c6c",
+      "resultBytes": 4676,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    },
+    {
+      "source": "lasso",
+      "method": "eth_getCode",
+      "trial": 1,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 503,
+      "resultHash": "7477709b0a9e285e0cbe708f0eeaf992e8912c6f51961d2e3b8b41ebe320df3b",
+      "resultBytes": 39370,
+      "chargeUsd": "0",
+      "profile": "public",
+      "provider": "base_drpc",
+      "requestId": "GOLs1Zz-MPrDgnEABBpi",
+      "servedLocally": false
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_getCode",
+      "trial": 1,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 483,
+      "resultHash": "7477709b0a9e285e0cbe708f0eeaf992e8912c6f51961d2e3b8b41ebe320df3b",
+      "resultBytes": 39370,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_getCode",
+      "trial": 2,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 487,
+      "resultHash": "7477709b0a9e285e0cbe708f0eeaf992e8912c6f51961d2e3b8b41ebe320df3b",
+      "resultBytes": 39370,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    },
+    {
+      "source": "lasso",
+      "method": "eth_getCode",
+      "trial": 2,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 694,
+      "resultHash": "7477709b0a9e285e0cbe708f0eeaf992e8912c6f51961d2e3b8b41ebe320df3b",
+      "resultBytes": 39370,
+      "chargeUsd": "0",
+      "profile": "public",
+      "provider": "base_tenderly",
+      "requestId": "GOLs1fSHs9jRZKoABBsC",
+      "servedLocally": false
+    },
+    {
+      "source": "lasso",
+      "method": "eth_getCode",
+      "trial": 3,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 778,
+      "resultHash": "7477709b0a9e285e0cbe708f0eeaf992e8912c6f51961d2e3b8b41ebe320df3b",
+      "resultBytes": 39370,
+      "chargeUsd": "0",
+      "profile": "public",
+      "provider": "base_tenderly",
+      "requestId": "GOLs1hxijBTdeEQABOOB",
+      "servedLocally": false
+    },
+    {
+      "source": "base_direct",
+      "method": "eth_getCode",
+      "trial": 3,
+      "http": 200,
+      "ok": true,
+      "elapsedMs": 630,
+      "resultHash": "7477709b0a9e285e0cbe708f0eeaf992e8912c6f51961d2e3b8b41ebe320df3b",
+      "resultBytes": 39370,
+      "chargeUsd": null,
+      "profile": null,
+      "servedLocally": false
+    }
+  ],
+  "summary": [
+    {
+      "method": "eth_chainId",
+      "sources": [
+        {
+          "source": "lasso",
+          "success": 3,
+          "total": 3,
+          "medianMs": 208,
+          "maxMs": 1566
+        },
+        {
+          "source": "base_direct",
+          "success": 3,
+          "total": 3,
+          "medianMs": 446,
+          "maxMs": 1143
+        }
+      ],
+      "matchingFixedBlockResult": true
+    },
+    {
+      "method": "eth_getBalance",
+      "sources": [
+        {
+          "source": "lasso",
+          "success": 3,
+          "total": 3,
+          "medianMs": 489,
+          "maxMs": 761
+        },
+        {
+          "source": "base_direct",
+          "success": 3,
+          "total": 3,
+          "medianMs": 420,
+          "maxMs": 462
+        }
+      ],
+      "matchingFixedBlockResult": true
+    },
+    {
+      "method": "eth_call",
+      "sources": [
+        {
+          "source": "lasso",
+          "success": 3,
+          "total": 3,
+          "medianMs": 420,
+          "maxMs": 470
+        },
+        {
+          "source": "base_direct",
+          "success": 3,
+          "total": 3,
+          "medianMs": 431,
+          "maxMs": 433
+        }
+      ],
+      "matchingFixedBlockResult": true
+    },
+    {
+      "method": "eth_getCode",
+      "sources": [
+        {
+          "source": "lasso",
+          "success": 3,
+          "total": 3,
+          "medianMs": 694,
+          "maxMs": 778
+        },
+        {
+          "source": "base_direct",
+          "success": 3,
+          "total": 3,
+          "medianMs": 487,
+          "maxMs": 630
+        }
+      ],
+      "matchingFixedBlockResult": true
+    }
+  ],
+  "limits": "Three samples per method/source in one Windows environment. No general benchmark or failover guarantee."
+}
